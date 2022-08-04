@@ -4902,6 +4902,10 @@ The Chinese army, and also one of the central intelligence agencies, notably on 
 
 As highlighted on <<the-gate-of-heavenly-peace-1995>> 1:41, the PLA were really thought of as heroes of the people, partly due to Mao-era propaganda, as their name indicates. But when they stepped into Tiananmen, some of that was lost.
 
+Chinese soldier throwing flag over own head during the Beijing 2022 Winter Olympics:
+
+* https://www.reddit.com/r/maybemaybemaybe/comments/snkkxb/maybe_maybe_maybe/
+
 .A Chinese soldier smashes bricks on a colleague's head during joint Chinese-<<india>> anti-terrorism exercises in Kunming in 2007. http://mil.news.sina.com.cn/2014-02-26/0954766058.html from <<sina>> give the Chinese term "油锤贯顶". https://nastyhobbit.org/details.php?image_id=370[Source]. https://sinosphere.blogs.nytimes.com/2014/02/24/military-brick-breaking-demonstrations-face-the-chop/[Better source with worse image quality].
 image::{china-dictatorship-media-base}/PLA_soldier_breaking_bricks_on_head.jpg[height=400]
 
@@ -12319,6 +12323,9 @@ video::nPc3bSbKw28[youtube,height=400,width=600]
 .https://www.youtube.com/watch?v=_VaNnC8knew (https://github.com/cirosantilli/china-dictatorship/issues/724[GitHub reupload]) <<mao-zedong>>, <<xi-jinping>>, <<nazi,hitler>>, <<stalin>> and Korean dictators Kim Il-sung and his grandson Kim Jong-un singing the popular dance-pop song https://en.wikipedia.org/wiki/Dragostea_Din_Tei[Dragostea Din Tei by O-Zone (2003)], AKA https://knowyourmeme.com/memes/numa-numa[Numa Numa due to a popular pre-YouTube meme]. Watermarked wombo.ai which refers to: https://www.wombo.ai/ and appears to be specialized for singing music video deepfakes.
 video::_VaNnC8knew[youtube,height=400,width=600]
 
+.https://www.youtube.com/watch?v=6zn-PkCGTCM Silly Xi Jinping face swap videos compilation by Mr. Kurosawa's channel
+video::6zn-PkCGTCM[youtube,height=400,width=600]
+
 [[carrie-lam]]
 === Carrie Lam (林鄭月娥, 2017-)
 
@@ -12539,6 +12546,9 @@ image::https://web.archive.org/web/20210322084100im_/https://i.redd.it/fhs2nt5fk
 
 .Mao Zedong statue over rubble. TODO location/date/event. Some sources: August 2023 r/LOOK_CHINA<<reddit>> https://www.reddit.com/r/LOOK_CHINA/comments/15lgrbw/什么灾祸源头/[], August 2023 on disp.cc, possibly <<ptt>> related: https://disp.cc/b/ACG/gnVT
 image::{china-dictatorship-media-base}/Mao_Zedong_statue_over_rubble.jpg[height=800]
+
+https://www.youtube.com/watch?v=dW1oF9R9RLc Red Sun In The Sky (天上太陽紅彤彤)
+video::dW1oF9R9RLc[youtube,height=400,width=600]
 
 [[the-private-life-of-chairman-mao]]
 ==== The Private Life of Chairman Mao (毛泽东私人医生回忆录)
@@ -15578,21 +15588,24 @@ ffmpeg -y -i xi2017.webm -vf "subtitles=filename=xi2017.srt:force_style='Fontsiz
 ....
 
 [[those-against-raise-their-hands-2017]]
+.https://www.youtube.com/watch?v=mLJOsj0sOR8 Those against raise their hands (不同意的请举手), October 10, 2017. https://www.youtube.com/watch?v=Fdc-m5hTRpk[Source].
 video::mLJOsj0sOR8[youtube,height=400,width=600]
-.Those against raise their hands (不同意的请举手), October 10, 2017. https://www.youtube.com/watch?v=Fdc-m5hTRpk[Source].
 
 [[those-against-raise-their-hands-2022]]
+.https://www.youtube.com/watch?v=9iMFeINLUpk Those against raise their hands (不同意的请举手) 2022. https://www.youtube.com/watch?v=aYaSyheXHfg[Source].
 video::9iMFeINLUpk[youtube,height=400,width=600]
-.Those against raise their hands (不同意的请举手) 2022. https://www.youtube.com/watch?v=aYaSyheXHfg[Source].
 
+.https://www.youtube.com/watch?v=-Sg50edXPdM Al Capone hits a homerun scene from the film The Untouchables (1987)
 video::-Sg50edXPdM[youtube,height=400,width=600]
-.Al Capone hits a homerun scene from the film The Untouchables (1987)
 
+.https://www.youtube.com/watch?v=Yg48GsMJeaE Comittee meeting scene from the film The Death of Stalin (2017)
 video::Yg48GsMJeaE[youtube,height=400,width=600]
-.Comittee meeting scene from the film The Death of Stalin (2017)
 
+.https://www.youtube.com/watch?v=SCbat53DgSc Those against raise their hands Xi Jinping remix by Ciro Santilli
 video::SCbat53DgSc[youtube,height=400,width=600]
-.Those against raise their hands Xi Jinping remix by Ciro Santilli
+
+.https://www.youtube.com/watch?v=qB7ahtnwCrE Those against raise their hands joke video by Mr. Kurosawa's channel. Video is edited so that everyone disagress and at the Xi says "they will be missed".
+video::qB7ahtnwCrE[youtube,height=400,width=600]
 
 Announced at:
 
