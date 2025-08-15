@@ -25,3 +25,4 @@ C:\Users\tonyg\Desktop\tg.net.react.app\server\obj\Debug\net9.0\WeatherApi.genru
 C:\Users\tonyg\Desktop\tg.net.react.app\server\obj\Debug\net9.0\ref\WeatherApi.dll
 C:\Users\tonyg\Desktop\tg.net.react.app\server\bin\Debug\net9.0\WeatherApi.staticwebassets.runtime.json
 C:\Users\tonyg\Desktop\tg.net.react.app\server\obj\Debug\net9.0\compressed\8cwgn3dh24-qjiy31m5uz.gz
+C:\Users\tonyg\Desktop\tg.net.react.app\server\obj\Debug\net9.0\WeatherApi.sourcelink.json
