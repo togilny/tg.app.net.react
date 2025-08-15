@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "compounds": [
+    {
+      "name": "Run Weather App",
+      "configurations": [".NET Backend", "React Frontend"]
+    }
+  ],
+  "configurations": [
+
+    {
+      "name": ".NET Backend",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-server",
+      "program": "${workspaceFolder}/server/bin/Debug/net6.0/server.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/server",
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "Now listening on: (https?:\\/\\/\\S+)"
+      }
+    },
+    {
+      "name": "React Frontend",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "npm-install",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["start"],
+      "cwd": "${workspaceFolder}/client",
+      "console": "integratedTerminal"
+    }
+  ]
+}
